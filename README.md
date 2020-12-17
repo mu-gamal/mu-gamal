@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<div>
-  <img src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" />
-</div>
+<img src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" />
 
 <!--
 **mu-gamal/mu-gamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
