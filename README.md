@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div style="display: flex; flex-direction: row; background-color: red; width: 500; align-items: space-between">
+<div style="display: flex; flex-direction: row; background-color: red; width: 500px; align-items: space-between">
   <img src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" />
   <img src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" />
 </div>
