@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div style="display: flex; flex-direction: row; background-color: red;">
+<div>
   <img src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" />
   <img src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" />
 </div>
